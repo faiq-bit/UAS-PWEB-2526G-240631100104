@@ -24,4 +24,5 @@ Tabel: transaksi (id, tanggal, keterangan, jenis, jumlah, created_at)
 3. Buka localhost/UAS_FAIQ_KEUANGAN
 
 ## Pernyataan AI
-Project ini dikembangkan dengan bantuan AI (Claude - Anthropic)  
+Project ini dikembangkan dengan bantuan AI (Claude - Anthropic) 
+
