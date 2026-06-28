@@ -17,6 +17,7 @@ Aplikasi web sederhana untuk mencatat keuangan pribadi (pemasukan & pengeluaran)
 Database: keuangan
 Tabel: transaksi (id, tanggal, keterangan, jenis, jumlah, created_at)
 
+
 ## Cara Menjalankan
 1. Import database.sql ke phpMyAdmin
 2. Taruh folder di htdocs XAMPP
